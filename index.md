@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+<DOCTYPE! html>
+<html>
+<head>
+<title> CPA Outdoors</title>
+</head>
+<head>
+<center><font size = '8'>CPA Outdoors</font></center>
+</head>
+<body style="background-color:teal;">
+</body>
+<body>
+<svg width="2000" height="180">
+  <rect x="0" y="5" width="1500" height="50"
+  style="fill:orange;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+</svg>
+</body>
+<div
+   style="
+      top: 85;
+      left: 99;
+      position: absolute;
+      z-index: 1;
+      visibility: show;"
+    <h3>Home</h3>
+  </div>
+  
+  <div
+   style="
+      top: 85;
+      left: 300;
+      position: absolute;
+      z-index: 1;
+      visibility: show;"
+    <h3>About</h3>
+  </div>
+  
+   <div
+   style="
+      top: 85;
+      left: 500;
+      position: absolute;
+      z-index: 1;
+      visibility: show;"
+    <h3>Contacts</h3>
+  </div>
 
-You can use the [editor on GitHub](https://github.com/Dprawn5/cpaoutdoors/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <div
+   style="
+      top: 85;
+      left: 700;
+      position: absolute;
+      z-index: 1;
+      visibility: show;"
+    <h3>Limited Time Offers</h3>
+  </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dprawn5/cpaoutdoors/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+     <div
+   style="
+      top: 85;
+      left: 950;
+      position: absolute;
+      z-index: 1;
+      visibility: show;"
+    <h3>Apparel</h3>
+</div>
+     <div
+   style="
+      top: 85;
+      left: 1125;
+      position: absolute;
+      z-index: 1;
+      visibility: show;"
+    <h3>Help</h3>
+</div>
+</html>
